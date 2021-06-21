@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?t29pjn');
+  src:  url('fonts/icomoon.eot?t29pjn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?t29pjn') format('truetype'),
+    url('fonts/icomoon.woff?t29pjn') format('woff'),
+    url('fonts/icomoon.svg?t29pjn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-be:before {
+  content: "\e900";
+  color: #004236;
+}
+.icon-pin:before {
+  content: "\e901";
+  color: #004236;
+}
+.icon-fb:before {
+  content: "\e902";
+  color: #004236;
+}
+.icon-in:before {
+  content: "\e903";
+  color: #004236;
+}
+.icon-close:before {
+  content: "\e904";
+  color: #004236;
+}
+.icon-right:before {
+  content: "\e905";
+  color: #004236;
+}
+.icon-right-array:before {
+  content: "\e906";
+  color: #004236;
+}
+.icon-left-array:before {
+  content: "\e907";
+  color: #004236;
+}
+.icon-scroll:before {
+  content: "\e909";
+  color: #004236;
+}
+.icon-home-repairs:before {
+  content: "\e90a";
+  color: #004236;
+}
+.icon-home-design:before {
+  content: "\e90b";
+  color: #004236;
+}
+.icon-home-restoration:before {
+  content: "\e90c";
+  color: #004236;
+}
+.icon-home-project:before {
+  content: "\e90d";
+  color: #004236;
+}
+.icon-home-furniture:before {
+  content: "\e90e";
+  color: #004236;
+}
+.icon-home-exterior:before {
+  content: "\e90f";
+  color: #004236;
+}
+.icon-home-ifurniture:before {
+  content: "\e910";
+  color: #007c66;
+}
+.icon-home-interior:before {
+  content: "\e911";
+  color: #007c66;
+}
+.icon-el-phone:before {
+  content: "\e912";
+  color: #007c66;
+}
+.icon-el-menu:before {
+  content: "\e913";
+  color: #007c66;
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+/* Customization */
+.icon-el-menu {
+  font-size: 20px
+}
+.icon-el-phone:before {
+  vertical-align: bottom;
+}
