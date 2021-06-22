@@ -81,6 +81,12 @@ h4 {
 .rounded-ico::before {
   color: #007C66;
 }
+@media (max-width: 1900px) {
+  #counter {
+    width: 377px;
+    height: 377px;
+  }
+}
 
 /* Header */
 header {
